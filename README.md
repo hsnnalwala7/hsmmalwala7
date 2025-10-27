@@ -56,9 +56,6 @@ My passion lies in **fortifying systems, developing SIEM detections, and integra
 ---
 
 ### 📫 **Let’s Connect**
-[LinkedIn](https://www.linkedin.com/in/hussain-nalwala-40924215b/) • [Portfolio](https://golden-year.vercel.app/) • [Email](mailto:hsnnalwala7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hussain-nalwala-40924215b/) • [Email](mailto:hsnnalwala7@gmail.com)
 
 ---
-
-> *“Security is not about perfection — it’s about resilience, awareness, and adaptation.”*  
-> — Hussain Nalwala

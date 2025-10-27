@@ -18,14 +18,15 @@ My passion lies in **fortifying systems, developing SIEM detections, and integra
 ---
 
 ### ⚙️ **Core Competencies**
-✅ Cloud Security (AWS | Azure)  
-✅ Network Security & Firewalls (Cisco | Fortinet | HPE Aruba)  
-✅ SIEM & Threat Detection (Splunk | Sentinel | MITRE ATT&CK)  
-✅ Linux Administration & Hardening
-✅ Windows Administration & Hardening
-✅ Containerization (Docker | Compose | Keycloak | Nextcloud)  
-✅ Security Frameworks (NIST CSF, CIS, ISO 27001, PCI-DSS)  
-✅ Scripting & Automation (Python | Bash | PowerShell)
+
+- [x] Cloud Security (AWS | Azure)
+- [x] Network Security & Firewalls (Cisco | Fortinet | HPE Aruba)
+- [x] SIEM & Threat Detection (Splunk | Sentinel | MITRE ATT&CK)
+- [x] Linux Administration & Hardening
+- [x] Windows Administration & Hardening
+- [x] Containerization (Docker | Compose | Keycloak | Nextcloud)
+- [x] Security Frameworks (NIST CSF, CIS, ISO 27001, PCI-DSS)
+- [x] Scripting & Automation (Python | Bash | PowerShell)
 
 ---
 

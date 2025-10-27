@@ -39,7 +39,7 @@ My passion lies in **fortifying systems, developing SIEM detections, and integra
 ---
 
 ### 🧩 **Certifications**
-- CompTIA **Security+ (SY0-701)** ✅  
+- CompTIA **Security+ (SY0-701)**  
 - **AWS Cloud Practitioner**  
 - **ISC2 Certified in Cybersecurity (CC)**
 - **Fortinet NSE4**  
@@ -55,7 +55,7 @@ My passion lies in **fortifying systems, developing SIEM detections, and integra
 ---
 
 ### 📫 **Let’s Connect**
-[LinkedIn](https://www.linkedin.com/in/hussainnalwala/) • [Portfolio](https://golden-year.vercel.app/) • [Email](mailto:hussainnalwala@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hussain-nalwala-40924215b/) • [Portfolio](https://golden-year.vercel.app/) • [Email](mailto:hsnnalwala7@gmail.com)
 
 ---
 

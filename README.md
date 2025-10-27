@@ -3,7 +3,7 @@
 **Cybersecurity Graduate Student | Cloud & Network Security Engineer | Security Automation Enthusiast**
 
 I’m a cybersecurity graduate student at **DePaul University** with 5+ years of hands-on experience spanning **network security, cloud infrastructure, and cybersecurity operations**.  
-My professional journey has taken me from managing enterprise networks to building secure cloud and containerized environments — always with a focus on automation, detection, and resilience.  
+My professional journey has taken me from managing enterprise networks to building secure cloud and containerized environments always with a focus on automation, detection, and resilience.  
 
 My passion lies in **fortifying systems, developing SIEM detections, and integrating security within DevOps workflows**, helping organizations stay one step ahead of evolving threats.
 
